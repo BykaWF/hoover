@@ -1,4 +1,4 @@
-package dev.danvega.hellovaadin.post;
+package home.hoover.post;
 
 import java.util.List;
 

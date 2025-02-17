@@ -1,4 +1,4 @@
-package dev.danvega.hellovaadin.post;
+package home.hoover.post;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

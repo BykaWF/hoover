@@ -1,4 +1,4 @@
-package dev.danvega.hellovaadin;
+package home.hoover;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
