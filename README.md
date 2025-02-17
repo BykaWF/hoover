@@ -1,4 +1,5 @@
 # Hoover App
+This is a simple and stylish Todo app built with Vaadin.
 
 ## Features
 
@@ -7,7 +8,7 @@
 * Minimalistic UI with centered layout and responsive design.
 
 ## Technologies Used
-*Java 17+
+* Java 17+
 * Vaadin Flow (for UI development)
 * Maven (for dependency management)
 
